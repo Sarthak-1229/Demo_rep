@@ -1,4 +1,4 @@
 # Demo_rep
-<b>Jsut trying GitHub</b>
+<b>Just trying GitHub and leaning Git</b>
 -by sarthak
 
